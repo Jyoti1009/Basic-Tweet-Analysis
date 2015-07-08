@@ -11,7 +11,7 @@ The two main features implemented are:
   - Total number of times each word has been tweeted.
   - Median number of unique words per tweet, and update this median as tweets come in.
 
-The above features are mandatory features implemented.
+The above features are mandatory features implemented and the text is cleaned of any unecessary punctuations.
 
 The below features are extra features:
   - Extracts all URLs in the tweets
