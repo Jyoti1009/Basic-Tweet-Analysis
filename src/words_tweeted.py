@@ -22,4 +22,4 @@ txu.write_file("\n".join("{} \t\t\t\t\t {}".format(k, v) for k, v in sorted(dict
 end = time.clock()
 
 # Print total time taken 
-print "Total time taken in processing: ", end - start
+print "Total time taken in processing word count: ", end - start
