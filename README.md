@@ -55,10 +55,10 @@ Run the *run.sh* file to execute the code.
 Currently the file executes only the two main features that are **words_tweeted.py** and **median_unique.py**. 
 
 There are 4 ways to get the input tweets:
-  - Stored tweets in ./tweets_input/tweets.txt file (./tweets_input/tweets.txt)
-  - Get the twitter authorized user's homepage timeline of top 20 tweets (twitter:home)
-  - Get the top 20 statuses update of the twitter authorized user (twitter:none)
-  - Get the top 20 statuses update of any twitter user by the user_id (twitter:<userid>)
+  - Stored tweets in ./tweets_input/tweets.txt file (**./tweets_input/tweets.txt**)
+  - Get the twitter authorized user's homepage timeline of top 20 tweets (**twitter:home**)
+  - Get the top 20 statuses update of the twitter authorized user (**twitter:none**)
+  - Get the top 20 statuses update of any twitter user by the user_id (**twitter:<userid>**)
 
 For the last 3 ways, twitter authorization must be done as explained above.
 To run the extra features, all the dependencies must be first met. 
@@ -66,5 +66,5 @@ To run the extra features, all the dependencies must be first met.
 ###### Running the extra features/twitter input
 As mentioned above, there are three executable scripts *words_tweeted.py*, *median_unique.py* and *extra_features.py*.
 These three executables can have 4 input variants as mentioned above. 
-Hence, in *run.sh* file, there are three blocks separated by blank lines with each block containing 4 lines. These 4 lines have different input modes (refer to the brackets in 4 ways to get the input tweets above). Uncomment the lines that you want to run in run.sh and save and run!!
+Hence, in *run.sh* file, there are three blocks separated by blank lines with each block containing 4 lines. These 4 lines have different input modes (refer to the brackets in 4 ways to get the input tweets above). Uncomment the lines that you want to run in *run.sh* and save and run!!
 
