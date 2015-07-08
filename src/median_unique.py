@@ -28,4 +28,4 @@ outfile.close()
 end = time.clock()
 
 # Print total time taken 
-print "Total time taken in processing: ", end - start
+print "Total time taken in processing median: ", end - start
