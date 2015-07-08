@@ -58,7 +58,7 @@ There are 4 ways to get the input tweets:
   - Stored tweets in ./tweets_input/tweets.txt file (**./tweets_input/tweets.txt**)
   - Get the twitter authorized user's homepage timeline of top 20 tweets (**twitter:home**)
   - Get the top 20 statuses update of the twitter authorized user (**twitter:none**)
-  - Get the top 20 statuses update of any twitter user by the user_id (**twitter:<userid>**)
+  - Get the top 20 statuses update of any twitter user by the user_id (**twitter:[userid]**)
 
 For the last 3 ways, twitter authorization must be done as explained above.
 To run the extra features, all the dependencies must be first met. 
