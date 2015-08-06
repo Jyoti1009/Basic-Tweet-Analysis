@@ -1,4 +1,4 @@
-# Insight Data Engineering Assignment
+# Basic Tweet Analysis
 
 ### Introduction
 
@@ -68,3 +68,5 @@ As mentioned above, there are three executable scripts *words_tweeted.py*, *medi
 These three executables can have 4 input variants as mentioned above. 
 Hence, in *run.sh* file, there are three blocks separated by blank lines with each block containing 4 lines. These 4 lines have different input modes (refer to the brackets in 4 ways to get the input tweets above). Uncomment the lines that you want to run in *run.sh* and save and run!!
 
+#### Training sentiment analysis Dataset
+You can also train your own training dataset using *sentiment.py*. 
